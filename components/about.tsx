@@ -19,7 +19,7 @@ export function About() {
           <div>
             <h2 className="text-3xl sm:text-4xl font-bold text-primary mb-6">About Eastern Utah CPAs</h2>
             <p className="text-foreground/70 mb-4">
-              Eastern Utah CPA's, PLLC is a Utah licensed full-service CPA firm with significant experience in
+              Eastern Utah CPAs, PLLC is a Utah licensed full-service CPA firm with significant experience in
               governmental and non-profit auditing. We provide comprehensive services to governmental units and
               not-for-profit organizations.
             </p>
