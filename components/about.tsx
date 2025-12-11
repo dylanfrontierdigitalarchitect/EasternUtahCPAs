@@ -40,8 +40,8 @@ export function About() {
 
           <div className="space-y-4">
             <Card className="bg-white border border-border">
-              <CardContent className="pt-6">
-                <h3 className="font-bold text-primary mb-2">Location</h3>
+              <CardContent className="pt-4 pb-4">
+                <h3 className="font-bold text-primary mb-3">Location</h3>
                 <p className="text-sm text-foreground/70">
                   134 West Main, Suite 101
                   <br />
@@ -51,8 +51,8 @@ export function About() {
             </Card>
 
             <Card className="bg-white border border-border">
-              <CardContent className="pt-6">
-                <h3 className="font-bold text-primary mb-2">Hours</h3>
+              <CardContent className="pt-4 pb-4">
+                <h3 className="font-bold text-primary mb-3">Hours</h3>
                 <p className="text-sm text-foreground/70">
                   <strong>Tuesday & Thursday:</strong> 8 AM - 5 PM
                   <br />
@@ -62,8 +62,8 @@ export function About() {
             </Card>
 
             <Card className="bg-white border border-border">
-              <CardContent className="pt-6">
-                <h3 className="font-bold text-primary mb-2">Contact</h3>
+              <CardContent className="pt-4 pb-4">
+                <h3 className="font-bold text-primary mb-3">Contact</h3>
                 <p className="text-sm text-foreground/70">
                   <a href="tel:4357890960" className="text-primary hover:underline font-semibold">
                     435-789-0960
